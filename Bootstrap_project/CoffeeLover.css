@@ -1,0 +1,23 @@
+#List1{
+	font-size: 0.9em ;
+	color: rgb(0,0,0) ;
+}
+
+#container1{
+	margin-top: 20px ;
+	/*background-color: rgb(238,238,238) ;*/
+}
+
+#container2{
+	font-size: 0.9em ;
+}
+
+h3{
+	font-weight: bolder ;
+}
+
+/*
+#container_Image{
+    max-width:50%;
+    height:auto;
+}*/
